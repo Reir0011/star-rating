@@ -1,2 +1,0 @@
-# star-rating
-Begin app
